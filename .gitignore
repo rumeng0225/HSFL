@@ -1,0 +1,9 @@
+.idea
+*.pth
+*.tar.gz
+
+/data/
+/log/
+
+**/__pycache__
+*.pyc
