@@ -1,6 +1,6 @@
 ## HSFL
 
-A base code of for paper:
+A base code of paper:
 > Performance Optimization of Split Federated Learning in Heterogeneous Edge Computing Environments
 
 ## General Guidelines
